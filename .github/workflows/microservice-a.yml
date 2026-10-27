@@ -7,6 +7,6 @@ on:
 
 jobs:
   call-master-build:
-    uses: ishanrohatgi9/gha-lab-01-central/.github/workflows/reusable-build.yml@main
+    uses: ishanrohatgi9/gha-lab-01-central/.github/workflows/reusable-build.yaml@main
     with:
       node_version: '20'
