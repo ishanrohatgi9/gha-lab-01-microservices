@@ -1,4 +1,4 @@
-name: Microservice A Pipeline
+name: Microservice a Pipeline
 
 on:
   push:
